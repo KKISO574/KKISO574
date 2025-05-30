@@ -1,7 +1,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKISO574&layout=compact&theme=tokyonight)
 
 <div align="center">
-    <img height="10px" src="https://github-readme-stats.vercel.app/api?username=KKISO574&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=KKISO574&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
 
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
